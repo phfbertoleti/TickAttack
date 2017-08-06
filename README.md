@@ -6,3 +6,8 @@ Até o momento, o projeto está feito "plug and play" para a Eval Board STM32072
 
 
 O uso é 100% livre.
+
+
+Adicional: versão para ATTiny85
+
+Dada a popularização do Arduino (sobretudo àqueles com o microcontrolador ATTiny85), foi feito um port do TickAttack (respeitando as devidas restriçes de recurso e hardware do ATTiny85)
